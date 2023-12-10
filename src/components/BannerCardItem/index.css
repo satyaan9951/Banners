@@ -19,3 +19,33 @@
 }
 
 /* Write your code here. */
+
+.banner-card-item {
+  border: 1px solid #cbced2;
+  border-radius: 8px;
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 32px;
+  max-width: 1140px;
+  list-style-type: none;
+}
+
+.description {
+  color: #647486;
+  font-family: 'Roboto';
+  font-size: 18px;
+  margin-top: 24px;
+  margin-bottom: 32px;
+}
+
+.show-more-btn {
+  color: #326890;
+  background-color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: bold;
+  border: 2px solid #326a9d;
+  border-radius: 5px;
+  padding: 8px;
+}
