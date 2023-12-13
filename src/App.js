@@ -1,5 +1,8 @@
 import './App.css'
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0d37a95af6f7bc6fc32d161b23deecc104a48c5f
 import BannerCardItem from './components/BannerCardItem'
 
 const bannerCardsList = [
